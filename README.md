@@ -18,6 +18,10 @@ This **Custom Solar System** project is a **visually stunning, animated, and int
 ## 📸 Preview  
 
 
+
+https://github.com/user-attachments/assets/d700690f-3476-4ffb-9a9c-fb94f6c189e5
+
+
 ---
 
 ## 🛠 Installation & Setup  
