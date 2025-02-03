@@ -25,7 +25,7 @@ This **Custom Solar System** project is a **visually stunning, animated, and int
 1. **Clone this repository**  
    ```sh
    git clone https://github.com/Arslan/Custom-Solar-System-Flutte.git
-   cd your-repository
+
 
 
 ---
