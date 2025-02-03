@@ -1,16 +1,28 @@
-# solar_system_custom_design
+# 🌌 Custom Solar System in Flutter  
 
-A new Flutter project.
+## 🚀 An Interactive Solar System Simulation Built with Flutter  
+This **Custom Solar System** project is a **visually stunning, animated, and interactive** representation of our planetary system, developed entirely in **Flutter**. The app simulates planetary motion, realistic orbits, and provides detailed information about each celestial body.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Features  
+✅ **Realistic Planetary Orbits** – Planets revolve around the Sun with smooth animations.  
+✅ **Custom-Designed Planets** – Unique textures, sizes, and colors for each planet.  
+✅ **Interactive UI** – Tap on planets to view details like distance from the Sun, orbital speed, etc.  
+✅ **Smooth Animations** – Uses **Flutter’s animation framework** for fluid motion.  
+✅ **Dark-Space Theme** – Aesthetic UI with glowing planetary effects.  
+✅ **Cross-Platform Compatibility** – Runs seamlessly on **Android & iOS** using Flutter.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Preview  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+---
+
+## 🛠 Installation & Setup  
+
+1. **Clone this repository**  
+   ```sh
+   git clone https://github.com/Arslan/Custom-Solar-System-Flutte.git
+   cd your-repository
