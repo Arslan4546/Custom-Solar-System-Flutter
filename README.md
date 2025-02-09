@@ -29,9 +29,6 @@ https://github.com/user-attachments/assets/d700690f-3476-4ffb-9a9c-fb94f6c189e5
 1. **Clone this repository**  
    ```sh
    git clone https://github.com/Arslan4546/Custom-Solar-System-Flutter.git
-
-
-
 ---
 ## 🚀 About Me
 Hello, I'm Arslan! 👋 As a passionate Flutter developer, I've dedicated myself to mastering the art of crafting seamless, user-centric mobile applications that stand out for their elegance and efficiency. With a strong commitment to delivering excellence, I've been collaborating with the vibrant tech community at Freelance Bahawalpur, contributing to numerous projects that push the boundaries of what's possible with Flutter. 💻 My journey into the world of technology has been driven by an unwavering passion for Flutter. This journey has equipped me with an in-depth understanding of the framework, allowing me to create intuitive and dynamic applications that enhance user experience. I'm always open to connecting with fellow developers, tech enthusiasts, or anyone interested in the world of mobile app development. Whether you're looking for a collaborator on your next project, seeking advice, or just want to chat about the latest in Flutter. Thank you for stopping by my profile. Let's create something amazing together!
