@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/d700690f-3476-4ffb-9a9c-fb94f6c189e5
 
 1. **Clone this repository**  
    ```sh
-   git clone https://github.com/Arslan/Custom-Solar-System-Flutte.git
+   git clone https://github.com/Arslan4546/Custom-Solar-System-Flutter.git
 
 
 
